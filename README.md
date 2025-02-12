@@ -1,7 +1,7 @@
-# smartLocalShop
+# smartLocalShopVisit
 
-What I’ve Achieved in 20 Days on Smart Local Visit Project 🚀
-Over the last 20 days, I’ve been working on an exciting project — Smart Local Visit — a platform designed to help customers easily browse local shops and find the products they need, all while saving valuable time. 🕒💡
+What I’ve Achieved in 20 Days on Smart Local shop Visit Project 🚀
+Over the last 20 days, I’ve been working on an exciting project — Smart Local shop Visit — a platform designed to help customers easily browse local shops and find the products they need, all while saving valuable time. 🕒💡
 
 Here’s a quick rundown of some of the key features I've added:
 
